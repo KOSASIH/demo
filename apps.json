@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Pi Demo App",
+    "description": "A demo app for the Pi Platform",
+    "version": "1.0.0",
+    "author": "Pi Team",
+    "license": "MIT"
+  },
+  {
+    "name": "PiGenesis",
+    "description": "A brief description of your app",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "license": "MIT"
+  }
+]
